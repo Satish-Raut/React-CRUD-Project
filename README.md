@@ -1,3 +1,7 @@
+## Live Demo
+
+You can view this project live at: [placedshare.netlify.app](https://placedshare.netlify.app)
+
 
 ## CRUD Operations with Axios: Learnings & Application
 
